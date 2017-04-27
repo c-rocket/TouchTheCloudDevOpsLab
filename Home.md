@@ -1,4 +1,4 @@
-<center>![](images/background3.jpg)</center> 
+<center>![](images/background1.png)</center> 
 > Updated: April 19, 2017
 
 # Oracle Touch the Cloud Series: AppDev Starter Kit 
